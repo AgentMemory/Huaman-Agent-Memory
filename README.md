@@ -18,7 +18,7 @@ Survey_Memory
 <b>Jinlan Fu</b><sup>3</sup>,
 <b>See-Kiong Ng</b><sup>3</sup>,
 <b>Xia Liang</b><sup>1†</sup>,
-<b>Shixin Jiang</b><sup>1,2†</sup>,
+<b>Ming Liu</b><sup>1,2†</sup>,
 <b>Bing Qin</b><sup>1,2</sup>,
 </div>
 </div>
