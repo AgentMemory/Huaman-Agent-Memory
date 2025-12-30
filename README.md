@@ -42,8 +42,9 @@ Survey_Memory
 </div>
 
 <div align="center">
-    <a href="https://github.com/AgentMemory/Awesome-Agent-Memory"><img src="https://img.shields.io/github/last-commit/AgentMemory/Awesome-Agent-Memory?color=blue" alt="Github"></a>
-    <a href="https://github.com/threegold116/Omni-MLLM/blob/main/LICENSE"> <img alt="License" src="https://img.shields.io/github/license/AgentMemory/Awesome-Agent-Memory?color=green"> </a>
+    <a href="https://doi.org/10.48550/arXiv.2512.23343"><img src="https://img.shields.io/badge/arXiv-2512.23343-b31b1b.svg" alt="Paper"></a>
+    <a href="https://github.com/AgentMemory/Huaman-Agent-Memory"><img src="https://img.shields.io/github/last-commit/AgentMemory/Huaman-Agent-Memory?color=blue" alt="Github"></a>
+    <a href="https://github.com/AgentMemory/Huaman-Agent-Memory/LICENSE"> <img alt="License" src="https://img.shields.io/github/license/AgentMemory/Huaman-Agent-Memory?color=green"> </a>
 </div>
 
 ## 📢 Updates
@@ -57,31 +58,26 @@ This reading list will be updated periodically, and if you have any suggestions 
 
 ## 🗂️ Tables of Contents
 
-* [🧠 Memory Definitions](#-memory-definitions)
-* [🤔 Memory Utility](#-memory-utility)
-* [🧩 Memory Classification](#-memory-classification)
-* [💾 Memory Storage](#-memory-storage)
-* [🖥️ Memory Management](#-memory-management)
-* [📊 Benchmarks](#-benchmarks)
-* [🔐 Memory Security](#-memory-security)
-* [📟 Multimodal Memory](#-multimodal-memory)
+😄You can review the overall content flow of our article here! [Table Content](./table_of_content.md)
 
-## 🧠 Memory Definitions
-
-## 🤔 Memory Utility
-
-## 🧩 Memory Classification
-
-## 💾 Memory Storage
-
-## 🖥️ Memory Management
-
-## 📊 Benchmarks
-
-## 🔐 Memory Security
-
-## 📟 Multimodal Memory
+## 💾 Paper List
 
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=AgentMemory/Awesome-Agent-Memory&type=Date)](https://www.star-history.com/#AgentMemory/Awesome-Agent-Memory&Date)
+
+## 📖 Citation
+
+If you find this repository useful in your research, a citation to our paper would be greatly appreciated:
+
+```bibtex
+@misc{liang2025aimeetsbrainmemory,
+      title={AI Meets Brain: Memory Systems from Cognitive Neuroscience to Autonomous Agents}, 
+      author={Jiafeng Liang and Hao Li and Chang Li and Jiaqi Zhou and Shixin Jiang and Zekun Wang and Changkai Ji and Zhihao Zhu and Runxuan Liu and Tao Ren and Jinlan Fu and See-Kiong Ng and Xia Liang and Ming Liu and Bing Qin},
+      year={2025},
+      eprint={2512.23343},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2512.23343}, 
+}
+```
