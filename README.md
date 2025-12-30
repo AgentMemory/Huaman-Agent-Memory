@@ -162,7 +162,7 @@ This reading list will be updated periodically, and if you have any suggestions 
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=AgentMemory/Huaman-Agent-Memory&type=Date)](https://www.star-history.com/#AgentMemory/Huaman-Agent-Memory&Date)  
+[![Star History Chart](https://api.star-history.com/svg?repos=AgentMemory/Huaman-Agent-Memory&type=date&legend=top-left)](https://www.star-history.com/#AgentMemory/Huaman-Agent-Memory&type=date&legend=top-left)
 
 ## 📖 Citation
 
